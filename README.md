@@ -2,7 +2,7 @@
 <p align="center"">
 <img src="https://share.creavite.co/opWGkSf3hPE4QhwZ.gif" alt="animated"></img>
 </p>
-<h1 align="center">Hi 🦁, I'm Hamza Khan-Benjamin</h1>
+<h1 align="center">Hi 🦁, I'm Hamza</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
 <img align="right" width="400" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized.gif"/>
